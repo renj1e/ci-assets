@@ -1,0 +1,14 @@
+{
+    "name": "renj1e/ci-assets",
+    "type": "library",
+    "description": "CodeIgniter asset's loader",
+    "keywords": ["OOP","CodeIgniter", "PHP"],
+    "homepage": "https://webstackstudio.com",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Renjel Cabaral",
+            "role": "Developer"
+        }
+    ],
+}
