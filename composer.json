@@ -10,5 +10,13 @@
             "name": "Renjel Cabaral",
             "role": "Developer"
         }
-    ]
+    ],
+    "require": {
+        "php": "^7.1"
+    },    
+    "autoload": {
+        "psr-4": {
+            "Asset\\": "lib"
+        }
+    },
 }
