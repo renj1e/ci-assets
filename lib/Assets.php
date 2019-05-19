@@ -11,13 +11,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @author Renj1e
  */
 
-namespace Assets;
+namespace Asset;
 
-class C
+class Assets
 {
     public function __construct()
     {
         $CI =& get_instance();
-        var_dump("expression");
+        var_dump($CI);
     }
 }
